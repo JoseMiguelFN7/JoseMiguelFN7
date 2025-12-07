@@ -1,24 +1,25 @@
 <div align="center">
-  <a href="#-hola-soy-jose-ferreira-">🇪🇸 Español</a> |
-  <a href="#-hello-im-jose-ferreira-">🇺🇸 English</a>
+  <strong>
+    <a href="#español">🇪🇸 Ir a Español</a> | 
+    <a href="#english">🇺🇸 Go to English</a>
+  </strong>
 </div>
 
 ---
 
-<div id="es"></div>
+# Español
 
 # Hola, soy Jose Ferreira 👋
+### Estudiante de Ingeniería de Sistemas | Backend Developer | Product Owner
 
-### Estudiante de Ingeniería de Sistemas | Backend Developer | Software Developer
-
-[cite_start]Soy un estudiante de Ingeniería de Sistemas en la **Universidad de Margarita** [cite: 16] [cite_start]con una fuerte pasión por la tecnología y el aprendizaje continuo[cite: 17]. [cite_start]Me especializo en el desarrollo de software (Backend) y en la gestión de productos tecnológicos, disfrutando de abordar desafíos complejos y transformarlos en soluciones escalables[cite: 18].
+Soy un estudiante de Ingeniería de Sistemas en la **Universidad de Margarita** con una fuerte pasión por la tecnología y el aprendizaje continuo. Me especializo en el desarrollo de software (Backend) y en la gestión de productos tecnológicos.
 
 ## 🚀 Sobre mí
 
-- [cite_start]🔭 Actualmente trabajo como **Product Owner** en **Kodea Labs**, definiendo la visión de productos FinTech[cite: 26, 28, 32].
-- [cite_start]🎓 Soy **Preparador Académico** en la Universidad de Margarita para materias de lógica y programación[cite: 41, 46].
-- [cite_start]💡 Me enfoco en: Identificar requisitos tecnológicos y desarrollar arquitecturas robustas[cite: 18].
-- [cite_start]🌱 Mi objetivo: Crecer constantemente combinando innovación con dedicación[cite: 19].
+- 🔭 Actualmente trabajo como **Product Owner** en **Kodea Labs**, definiendo la visión de productos FinTech.
+- 🎓 Soy **Preparador Académico** en la Universidad de Margarita para materias de lógica y programación.
+- 💡 Me enfoco en: Identificar requisitos tecnológicos y desarrollar arquitecturas robustas.
+- 🌱 Mi objetivo: Crecer constantemente combinando innovación con dedicación.
 
 ## 🛠️ Stack Tecnológico
 
@@ -44,41 +45,39 @@
 ## 💼 Experiencia Destacada
 
 ### 🔹 Kodea Labs | _Product Owner & Backend Developer_
-[cite_start]*Feb 2025 - Presente* [cite: 29]
-- **Product Owner:** Actúo como enlace entre metas estratégicas FinTech y el equipo de desarrollo. [cite_start]Traduzco necesidades de mercado (Plataformas de pago, KYC/AML, Web3) en backlogs priorizados[cite: 32, 33].
-- [cite_start]**Backend Dev:** Desarrollé el flujo de onboarding para una app móvil, diseñando la API Rest con **Django** e integrando **Auth0** para seguridad[cite: 37, 38, 39].
+*Feb 2025 - Presente*
+- **Product Owner:** Actúo como enlace entre metas estratégicas FinTech y el equipo de desarrollo.
+- **Backend Dev:** Desarrollé el flujo de onboarding para una app móvil con **Django** y **Auth0**.
 
 ### 🔹 Universidad de Margarita | _Estudiante Preparador_
-[cite_start]*Ene 2025 - Presente* [cite: 42]
-- [cite_start]Asistencia docente en materias fundamentales: **Estructuras de Datos, Matemáticas IV y Técnicas de Programación**[cite: 46].
-- [cite_start]Dirijo sesiones de estudio y ayudo a otros estudiantes a consolidar bases técnicas[cite: 45].
+*Ene 2025 - Presente*
+- Asistencia docente en: **Estructuras de Datos, Matemáticas IV y Técnicas de Programación**.
 
 ### 🔹 Oriente Financiero, C.A. | _Backend Developer_
-[cite_start]*Sep 2025 - Nov 2025* [cite: 49]
-- [cite_start]Diseño y desarrollo de plataforma web para la medición de índices económicos del Estado Nueva Esparta[cite: 51].
+*Sep 2025 - Nov 2025*
+- Desarrollo de plataforma web para medición de índices económicos.
 
 ## 📫 Contacto
 
-- [cite_start]**LinkedIn:** [joseferreira2001](https://www.linkedin.com/in/joseferreira2001) [cite: 4]
-- [cite_start]**Email:** [josemiguelf2001@gmail.com](mailto:josemiguelf2001@gmail.com) [cite: 2]
+- **LinkedIn:** [joseferreira2001](https://www.linkedin.com/in/joseferreira2001)
+- **Email:** [josemiguelf2001@gmail.com](mailto:josemiguelf2001@gmail.com)
 
 ---
 ---
 
-<div id="en"></div>
+# English
 
 # Hello, I'm Jose Ferreira 👋
-
 ### Systems Engineering Student | Backend Developer | Product Owner
 
-[cite_start]I am a Systems Engineering student at **Universidad de Margarita** [cite: 16] [cite_start]with a strong passion for technology and continuous learning[cite: 17]. [cite_start]I specialize in software development (Backend) and tech product management, enjoying the challenge of transforming complex requirements into scalable solutions[cite: 18].
+I am a Systems Engineering student at **Universidad de Margarita** with a strong passion for technology. I specialize in software development (Backend) and tech product management.
 
 ## 🚀 About Me
 
-- [cite_start]🔭 I currently work as a **Product Owner** at **Kodea Labs**, defining the vision for FinTech products[cite: 26, 28, 32].
-- [cite_start]🎓 I am a **Teaching Assistant** at Universidad de Margarita for logic and programming subjects[cite: 41, 46].
-- [cite_start]💡 My focus: Identifying technological requirements and developing robust architectures[cite: 18].
-- [cite_start]🌱 My goal: To constantly grow by combining innovation with dedication[cite: 19].
+- 🔭 Currently working as **Product Owner** at **Kodea Labs**, defining FinTech product vision.
+- 🎓 I am a **Teaching Assistant** at Universidad de Margarita for logic and programming subjects.
+- 💡 My focus: Identifying tech requirements and building robust architectures.
+- 🌱 My goal: To constantly grow by combining innovation with dedication.
 
 ## 🛠️ Tech Stack
 
@@ -104,20 +103,19 @@
 ## 💼 Featured Experience
 
 ### 🔹 Kodea Labs | _Product Owner & Backend Developer_
-[cite_start]*Feb 2025 - Present* [cite: 29]
-- **Product Owner:** I serve as the link between strategic FinTech goals and the development team. [cite_start]I translate market needs (Payment platforms, KYC/AML, Web3) into prioritized backlogs[cite: 32, 33].
-- [cite_start]**Backend Dev:** Developed the complete onboarding flow for a mobile app, designing the REST API with **Django** and integrating **Auth0** for security[cite: 37, 38, 39].
+*Feb 2025 - Present*
+- **Product Owner:** Liaison between FinTech strategic goals and the dev team.
+- **Backend Dev:** Developed mobile app onboarding flow with **Django** and **Auth0**.
 
 ### 🔹 Universidad de Margarita | _Teaching Assistant_
-[cite_start]*Jan 2025 - Present* [cite: 42]
-- [cite_start]Teaching Assistant for fundamental subjects: **Data Structures, Math IV, and Programming Techniques**[cite: 46].
-- [cite_start]I lead study sessions and help other students consolidate their technical foundations[cite: 45].
+*Jan 2025 - Present*
+- Teaching Assistant for: **Data Structures, Math IV, and Programming Techniques**.
 
 ### 🔹 Oriente Financiero, C.A. | _Backend Developer_
-[cite_start]*Sep 2025 - Nov 2025* [cite: 49]
-- [cite_start]Design and development of a web platform for measuring economic indices in Nueva Esparta[cite: 51].
+*Sep 2025 - Nov 2025*
+- Web platform development for economic indices measurement.
 
 ## 📫 Contact
 
-- [cite_start]**LinkedIn:** [joseferreira2001](https://www.linkedin.com/in/joseferreira2001) [cite: 4]
-- [cite_start]**Email:** [josemiguelf2001@gmail.com](mailto:josemiguelf2001@gmail.com) [cite: 2]
+- **LinkedIn:** [joseferreira2001](https://www.linkedin.com/in/joseferreira2001)
+- **Email:** [josemiguelf2001@gmail.com](mailto:josemiguelf2001@gmail.com)
